@@ -11,8 +11,8 @@
 ## Skills
 
 * JavaScript
-* jQuery
-* jQuery Plugins
+* HTML5 Audio & Video Media
+* jQuery & jQuery Plugin Development
 * HTML & CSS
 * PHP & MySQL
 
@@ -25,7 +25,7 @@
 
 ### [jPlayer.it](http://jplayer.it/) : Skins, modules and plugins for [jPlayer](http://jplayer.org/)
 * Skin Designer
-* Demo Developer
+* Demo Development
 * Site Maintenance
 
 ### [hyperaud.io](http://hyperaud.io/) : Transcript Powered Audio And Video.
