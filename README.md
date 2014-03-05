@@ -12,22 +12,23 @@
 
 * JavaScript
 * jQuery
+* jQuery Plugins
 * HTML & CSS
 * PHP & MySQL
 
 ## Projects
 
-[jPlayer](http://jplayer.org/) : HTML5 Audio & Video for [jQuery](http://jquery.com/)
-* Lead Developer
-* Support Group
+### [jPlayer](http://jplayer.org/) : HTML5 Audio & Video for [jQuery](http://jquery.com/)
+* [Lead Developer](https://github.com/happyworm/jPlayer)
+* [Support Group](https://groups.google.com/forum/#!forum/jplayer)
 * Site Maintenance
 
-[jPlayer.it](http://jplayer.it/) : Skins, modules and plugins for [jPlayer](http://jplayer.org/)
+### [jPlayer.it](http://jplayer.it/) : Skins, modules and plugins for [jPlayer](http://jplayer.org/)
 * Skin Designer
 * Demo Developer
 * Site Maintenance
 
-[hyperaud.io](http://hyperaud.io/) : Transcript Powered Audio And Video.
+### [hyperaud.io](http://hyperaud.io/) : Transcript Powered Audio And Video.
 * Client-side JavaScript Developer
 * Hyperaudio JavaScript Library Architect
 
