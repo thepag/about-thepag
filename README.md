@@ -13,8 +13,11 @@
 * JavaScript
 * HTML5 Audio & Video Media
 * jQuery & jQuery Plugin Development
+* AJAX & XHR
 * HTML & CSS
 * PHP & MySQL
+* JSON & XML
+* Flash & ActionScript
 
 ## Projects
 
